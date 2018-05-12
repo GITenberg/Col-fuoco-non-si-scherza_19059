@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3561
     wikipedia: http://it.wikipedia.org/wiki/Emilio_De_Marchi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19059#Col-fuoco-non-si-scherza
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2006-08-16'
 gutenberg_type: Text
